@@ -1,0 +1,8 @@
+title: My Simple Blog
+description: A simple blog to post text file content.
+baseurl: "/iwrite"
+url: "https://sathvikpn.github.io"
+theme: jekyll-theme-slate  # Or use a minimal theme of your choice
+
+markdown: kramdown
+
